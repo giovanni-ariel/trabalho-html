@@ -1,2 +1,2 @@
 # meu-perfil
-Vou tentar fazer meu trabalho de html, que o professor Ryan propôs.
+Vou falar um pouco sobre mim.
